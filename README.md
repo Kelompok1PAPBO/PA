@@ -157,6 +157,8 @@ GUI.MenuAwal
 
 Untuk memilih masuk ke menu login atau register
 
+GUI.MenuNasabah
+
 <img width="479" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/3135e227-b072-417e-bed1-e4a75983c6e6">
 
 untuk masuk ke menu setoran.
@@ -206,6 +208,62 @@ GUI.ubahpin
 <img width="724" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/e9c83b56-9dd5-4565-9f0a-ce3e8d8038f4">
 
 Kode ini mengambil input PIN baru dari suatu teks input (diasumsikan sebagai txtPinBaru). Pertama, program memeriksa apakah PIN baru sama dengan PIN lama yang dimiliki oleh nasabah yang sedang masuk (loggedInNasabah). Jika sama, program menampilkan pesan kesalahan menggunakan dialog pop-up JOptionPane yang menyatakan bahwa PIN baru tidak boleh sama dengan PIN lama
+
+GUI.Login
+
+<img width="732" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/9876a332-e05b-4ee0-b800-f0d4a6cafc8e">
+
+Kode tersebut mengambil input username dan password dari antarmuka pengguna. Selanjutnya, ia mencoba melakukan login dengan memanggil metode login pada objek nasabah. Jika login berhasil, program menampilkan pesan "Login Berhasil" dan membuka jendela aplikasi utama. Jika login gagal, program menampilkan pesan kesalahan "Username atau Password anda salah".
+
+Tampilan Progam
+
+Menu Awal
+
+<img width="238" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/695949dd-bffd-4b10-9e82-cb60d6b4a85f">
+
+di menu ini kita bisa memilih untuk login ataupun register akun
+
+Daftar Akun (Registrasi)
+
+<img width="273" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/7f7e66bf-0ef5-4bb0-beb9-3df1769849d9">
+
+disini kita bisa mendaftar akun dengan menginput beberapa informasi dan memilih jenis rekening
+
+Login
+
+<img width="264" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/5c591448-274c-4294-8234-ed7561d02c88">
+
+disini kita bisa login menggunakan akun kita.
+
+Menu Nasabah
+
+<img width="251" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/2e9309c4-22d6-4cba-bc53-090071e6d4f6">
+
+di menu nasabah kita bisa mengakses informasi rekening, tutup rekening, melakukan penarikan dan mengubah pin 
+
+Menu Setoran
+
+<img width="251" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/df3b4f57-9f10-4946-926b-4fc1550e4de4">
+
+disini kita bisa setor uang pada rekening kita
+
+Tutup Rekening
+
+<img width="227" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/b6d8f19b-49a6-4211-81fa-8d2d0a970c62">
+
+disini kita bisa menutup rekening milik kita
+
+Ubah Pin
+
+<img width="251" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/c8477f4b-c330-4357-88d7-1cfeaf8e701b">
+
+disini kita bisa mengubah pin rekening kita.
+
+
+
+
+
+
 
 
 
