@@ -1,4 +1,4 @@
-<img width="523" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/0f49894d-c1f6-4587-a53e-1b223ed0f3be">KELOMPOK 1
+KELOMPOK 1
 Nama Anggota: Muhammad Yusril Arjulio Prayitno (2209116065)
               Valentina Febrizah Peni Sogen    (2209116090)
 
@@ -23,9 +23,11 @@ Program Mbangking mendukung dua jenis rekening: rekening giro dan rekening tabun
 Dengan demikian, program Mbangking adalah aplikasi perbankan sederhana yang memungkinkan pengguna untuk mengelola rekening mereka dengan mudah, melihat informasi tentang saldo dan bunga yang diperoleh, serta mengelola pengaturan keamanan seperti PIN. Program ini juga mencapai efisiensi dalam pengelolaan jenis rekening berbeda melalui penggunaan inheritance dalam kode program.
 
 Flowchart
+
 ![Flowchart PA final](https://github.com/Kelompok1PAPBO/PA/assets/126448864/894a4a8a-c092-4400-89b1-28ae4e369930)
 
 ERD
+
 ![Logicalfix](https://github.com/Kelompok1PAPBO/PA/assets/126448864/4a08c601-d733-4da7-aaf8-f188767a3a83)
 
 Hierarki Kelas
@@ -37,6 +39,7 @@ Disini Kami menerapkan Inheritance pada Kelas Rekening, Giro dan Tabungan dimana
 Penjelasan Codingan
 
 Class Database
+
 <img width="497" alt="image" src="https://github.com/Kelompok1PAPBO/PA/assets/126448864/2c831c05-cc21-4f5d-bbda-c2cc149fa4bd">
 
 Disini kita membuat property static untuk Database kita.
